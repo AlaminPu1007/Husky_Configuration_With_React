@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HVZG2W1YAGF4DBD0CN16G97W
-  version: v3
----
-
 ## This project about to integrate husky in a react application
 
 This process involved, how you can integrate .husky in you existing react application.
